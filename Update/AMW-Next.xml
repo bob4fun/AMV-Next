@@ -3,7 +3,7 @@
     <update> 
         <version>3.0</version> 
         <url>https://github.com/bob4fun/AMV-Next/raw/main/Update/AMV-Next.exe</url> 
-        <filePath>./AMV-Туче.exe</filePath>
+        <filePath>./AMV-Next.exe</filePath>
         <md5>93DDD8D78F7C94E3835540D07158C409</md5>
         <description>3.0 - Базовая версия
         </description> 
